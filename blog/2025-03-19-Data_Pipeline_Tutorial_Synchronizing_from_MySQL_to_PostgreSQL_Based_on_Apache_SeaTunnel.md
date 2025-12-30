@@ -184,7 +184,7 @@ Additionally, for tables **without primary keys**, logical primary keys can be s
 
 # Startup Mode
 
-The default startup mode is**“initial”**, which means：
+The default startup mode is**initial**, which means：
 
 1.  **Full historical data sync**first
 2.  **Incremental updates**afterward
