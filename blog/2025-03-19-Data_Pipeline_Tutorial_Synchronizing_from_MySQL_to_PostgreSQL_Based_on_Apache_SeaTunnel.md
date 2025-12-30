@@ -118,7 +118,7 @@ Here, we set the parallelism to**3**, but this value can be adjusted based on th
 
 ## Checkpoint Configuration
 
--   **Checkpoint Frequency**： Set to**30 seconds**. If higher precision is required, this can be reduced to**10 seconds**or less.
+-   **Checkpoint Frequency**： Set to **30 seconds**. If higher precision is required, this can be reduced to **10 seconds**or less.
 -   **Checkpoint Timeout**： If a checkpoint takes too long, the job is considered failed. Set to**30 seconds**.
 -   **Automatic Retry**： Configured to**3 retries**, with a retry interval of**3 seconds**(adjustable based on system requirements).
 
